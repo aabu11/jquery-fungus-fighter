@@ -15,4 +15,35 @@ function onReady() {
     // - Handle events that ->
     // - Updates state which is ->
     // - Rendered to the DOM
+
+$('.attack-btn').click(hitAndAttackButton)
+$('.enemy').click(fungusHealth)
+
+}
+
+let ArcaneSpector:
+
+let ap=100
+
+let hp=100
+
+let shroomHealth=100
+
+
+function fungusHealth(){
+
+
+
+console.log(shroomHealth)
+shroomHealth -- 
+$('.h').text(shroomHealth +  ' AP')
+
+}
+function hitAndAttackButton(){
+
+
+
+
+
+
 }
